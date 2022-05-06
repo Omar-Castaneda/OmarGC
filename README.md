@@ -1,0 +1,2 @@
+# OmarGC
+para clases
